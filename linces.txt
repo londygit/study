@@ -1,3 +1,2 @@
-171.21:		delete all from 171.21
-bijiben:	add one line from bijiben
-
+171.21:		delete all from 171.21.
+bijiben:	add one line from bijiben.
