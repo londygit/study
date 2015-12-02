@@ -1,11 +1,2 @@
-1.xxxx
-2.2222
-3. create branch dev.
-44444444
-5555555
-<<<<<<< HEAD
-666
-=======
-555666666
->>>>>>> devts
+delete all from 171.21
 add one line from bijiben
